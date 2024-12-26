@@ -2,7 +2,7 @@
 
 Wireshark PCAPNG was actually captured by me, and not generated
 
- * I did try to sanitize and remove unnecessary data and packets
+ * I tried to sanitize and remove unnecessary data
 
 ColaCo Server - https://github.com/avipars/ctf_flask_server
 
